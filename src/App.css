@@ -1,0 +1,157 @@
+.maincard{
+ 
+  border: 2px solid white;
+  width: 350px;
+  /* border-color: pink; */
+  box-shadow: 0 1px 3px rgb(0 0 0 / 18%), 0 1px 1px 0 rgb(0 0 0 / 17%);
+  margin-bottom: 10px;
+}
+img{
+  max-width: 100%;
+  
+}
+.bun{
+  padding: 10px;
+    padding-left: 20px;
+    color: white;
+    margin:5px;
+    background-color: #ad145a;
+    border-radius: 3px;
+    border-color:#ad145a ;
+   
+}
+.textarea{
+  padding-left: 10px;
+}
+.star{
+ padding-left: 10px; }
+.bun2{
+  color:#ad145a;
+  background-color: white;
+}
+*{
+  font-family:Arial, Helvetica, sans-serif;
+}
+.price{
+  font-weight: 800;
+  padding-left: 10px;
+}
+.showroom{
+ 
+  padding-left: 10px;
+  color: dimgray;
+}
+.offer{
+  color:dimgray;
+  padding-left: 10px;
+}
+.specs{
+  border: 2px solid white;
+  width: 350px;
+  /* border-color: pink; */
+  box-shadow: 0 1px 3px rgb(0 0 0 / 18%), 0 1px 1px 0 rgb(0 0 0 / 17%);
+  margin-bottom: 10px;
+}
+a{
+  color:black;
+}
+.mile{
+  color:dimgray;
+}
+.num{
+  padding-left: 10px;
+  
+}
+.num2{
+  padding-left: 10px;
+  color:dimgray;
+}
+.topitems{
+  display: flex;
+ 
+  margin-right: 2px;
+  padding: 10px;
+  color:dimgray;
+ 
+}
+.bottomitems{
+  display: flex;
+
+  margin-right: 2px;
+  padding: 10px;
+  color:dimgray;
+
+}
+.engine{
+  margin: 5% 5%;
+}
+.Fuel{
+  margin: 5% 5%;
+ 
+}
+.mile{
+  margin: 5% 5%;
+}
+.trans{
+  margin: 5% 5%;
+}
+.viewspec{
+  color: #4487d4;
+  text-decoration: none;
+}
+.thirdbox{
+
+
+  border: 2px solid white;
+  width: 350px;
+  /* border-color: pink; */
+  box-shadow: 0 1px 3px rgb(0 0 0 / 18%), 0 1px 1px 0 rgb(0 0 0 / 17%);
+}
+.thum{
+  margin-right: 5px;
+  margin-left: 20px;
+}
+.features{
+
+}
+ul{
+  list-style: none;
+}
+ul li::before {
+  content: "\2022"; 
+  color: green; 
+}
+.thumbd{
+  margin-right: 5px;
+  margin-left: 20px;
+}
+ul li::before {
+  content: "\2022"; 
+  color: red;
+}
+.points1{
+  color: dimgray;
+}
+.points2{
+  color: dimgray;
+}
+.heading{
+  padding-left: 20px;
+}
+.head3{
+  padding-left: 20px;
+}
+.dot{
+  background-color: green;
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 5px;
+}
+ul.greenpointer li{
+  /* padding-left: 10px; */
+}
+ul.greenpointer li:before{
+  color: green;
+  margin-right: 8px;
+}
